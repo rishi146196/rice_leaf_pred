@@ -51,4 +51,5 @@ Save the trained model as rice.h5.
 
 # Demo 🖼️
 ![App Screenshot](rice_1.png)
+![App Screenshot](rice_2.png)
 
