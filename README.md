@@ -50,5 +50,5 @@ Train the CNN model.
 Save the trained model as rice.h5.
 
 # Demo 🖼️
-![App Screenshot](.png)
+![App Screenshot](rice_1.png)
 
