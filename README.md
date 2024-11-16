@@ -8,7 +8,7 @@ Image Classification: Classifies uploaded images into predefined categories.
 Scalable: Can be adapted for other plant disease classification tasks.
 # Installation 📦
 ## 1. Clone the Repository
-git clone https://github.com/yourusername/rice-disease-classifier.git
+git clone https://github.com/rishi146196/rice-disease-classifier.git
 cd rice-disease-classifier
 ## 2. Set Up Environment
 Create and activate a virtual environment:
