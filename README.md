@@ -53,3 +53,8 @@ Save the trained model as rice.h5.
 ![App Screenshot](rice_1.png)
 ![App Screenshot](rice_2.png)
 
+# License 📄
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
