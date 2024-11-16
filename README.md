@@ -25,5 +25,30 @@ Ensure your trained model file (rice.h5) is placed in the project directory. If 
 # Usage 🖥️
 ## 1. Run the Web App
 streamlit run app.py
+# Directory Structure 📂
+plaintext
+Copy code
+rice-disease-classifier/
+├── app.py                     # Streamlit app script
+├── requirements.txt           # Required Python packages
+├── rice.h5                    # Pre-trained model file (not included, add your own)
+├── rice-disease-classifier.ipynb  # Training notebook
+├── README.md                  # Project documentation
+└── images/                    # Sample images (optional)
 
-2. 
+# Requirements 📋
+Python 3.8+
+TensorFlow/Keras
+Streamlit
+NumPy
+PIL
+# Training the Model 🧑‍💻
+To retrain the model, open and execute the rice-disease-classifier.ipynb notebook. This will:
+
+Preprocess the dataset.
+Train the CNN model.
+Save the trained model as rice.h5.
+
+# Demo 🖼️
+![App Screenshot](.png)
+
